@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Room11Note.Data
 {
-    public class Post
+    public class Post   //morgan check
     {
         [Key]
         public int PostId { get; set; }
